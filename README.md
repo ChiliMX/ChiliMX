@@ -14,6 +14,6 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chilimx&show_icons=true&locale=en" alt="chilimx" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chilimx&show_icons=true&theme=dark" alt="chilimx" /></p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiliMX&theme=dark" />
